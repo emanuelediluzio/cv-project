@@ -1,0 +1,515 @@
+Country,Air Pollution Level,Air Quality Station Type,Longitude,Latitude,Altitude,City,City Population,PATH
+Germany,33.293,Traffic,13.4417,52.4675,40.0,Berlin                                                                          ,3669491.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/1.png
+Italy,29.821,Background,9.6439,45.6903,249.0,Bergamo                                                                         ,120783.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/2.png
+Italy,43.91,Traffic,9.1914,45.4956,122.0,Milano (greater city)                                                           ,3622641.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/3.png
+Italy,8.366,Background,12.4197,42.5519,329.0,,,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/4.png
+Belgium,15.58,Background,4.8653,50.4624,65.0,Namur                                                                           ,112125.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/5.png
+Belgium,20.915,Traffic,5.5718,50.638,60.0,LiÃ¨ge                                                                           ,383700.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/6.png
+Italy,19.414,Background,10.6647,44.6908,50.0,Reggio nell'Emilia                                                              ,171084.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/7.png
+Italy,24.405,Traffic,16.2917,41.2317,10.0,Andria                                                                          ,98414.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/8.png
+Italy,22.115,Background,8.6204,45.4397,154.0,Novara                                                                          ,103287.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/9.png
+Italy,38.22,Traffic,13.3542,38.1244,17.0,Palermo                                                                         ,647422.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/10.png
+Italy,22.437,Traffic,18.1767,40.3519,50.0,Lecce                                                                           ,93865.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/11.png
+Italy,19.11,Traffic,16.605,41.2003,10.0,Molfetta                                                                        ,58145.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/12.png
+Italy,28.522,Traffic,15.5529,38.1983,10.0,Messina                                                                         ,227424.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/13.png
+Italy,19.338,Traffic,15.2853,37.0678,9.0,Siracusa                                                                        ,119056.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/14.png
+Italy,12.614,Background,12.5469,38.0124,40.0,Trapani                                                                         ,65841.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/15.png
+Italy,22.216,Traffic,12.1867,44.4286,4.0,Ravenna                                                                         ,158247.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/16.png
+Italy,27.427,Background,11.1262,46.0629,203.0,Trento                                                                          ,120641.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/17.png
+Italy,29.163,Traffic,11.34,46.4955,260.0,Bolzano                                                                         ,107843.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/18.png
+Italy,33.978,Traffic,9.0836,45.8044,201.0,Como                                                                            ,85543.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/19.png
+Italy,24.352,Traffic,10.0167,45.1328,45.0,Cremona                                                                         ,72399.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/20.png
+Italy,7.423,Background,14.2238,37.0757,0.0,Gela                                                                            ,72187.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/21.png
+Italy,35.934,Traffic,10.2319,45.5386,151.0,Brescia                                                                         ,196340.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/22.png
+Italy,35.966,Traffic,12.509,41.8831,37.0,Roma                                                                            ,2808293.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/23.png
+Italy,22.164,Background,8.9274,44.4182,105.0,Genova                                                                          ,565752.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/24.png
+Italy,19.804,Traffic,12.3747,43.1044,305.0,Perugia                                                                         ,164880.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/25.png
+Italy,28.818,Traffic,10.3367,44.7883,55.0,Parma                                                                           ,200455.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/26.png
+Italy,32.298,Traffic,11.2314,43.7858,41.0,Firenze                                                                         ,366927.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/27.png
+Italy,33.084,Traffic,9.3958,45.8494,214.0,Lecco                                                                           ,48058.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/28.png
+Italy,29.684,Traffic,9.1469,45.1856,77.0,Pavia                                                                           ,71882.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/29.png
+Italy,17.02,Background,11.355,44.4833,43.0,Bologna                                                                         ,395416.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/30.png
+Italy,28.416,Traffic,11.6131,44.8425,8.0,Ferrara                                                                         ,132899.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/31.png
+Italy,19.304,Background,12.913,41.464,18.0,Latina                                                                          ,127037.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/32.png
+Italy,26.972,Traffic,12.6559,45.9626,30.0,Pordenone                                                                       ,51733.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/33.png
+Italy,24.099,Traffic,13.789,45.6544,24.0,Trieste                                                                         ,201613.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/34.png
+Italy,28.46,Traffic,8.8203,45.8169,388.0,Varese                                                                          ,80724.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/35.png
+Italy,27.252,Traffic,14.7697,40.6839,35.0,Salerno                                                                         ,131556.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/36.png
+Italy,16.711,Background,10.7914,44.5394,118.0,Sassuolo                                                                        ,40278.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/37.png
+Italy,21.907,Traffic,13.2297,46.0708,116.0,Udine                                                                           ,100170.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/38.png
+Italy,17.581,Background,16.2861,41.3167,15.0,Barletta                                                                        ,93275.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/39.png
+Italy,25.306,Traffic,10.9639,45.4453,62.0,Verona                                                                          ,259087.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/40.png
+Latvia,7.862,Background,21.0144,56.4963,2.0,Liepaja                                                                         ,68313.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/41.png
+Italy,41.91,Traffic,14.2513,40.8542,46.0,Napoli (greater city)                                                           ,2855958.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/42.png
+Italy,23.392,Background,12.2386,45.6725,15.0,Treviso                                                                         ,85456.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/43.png
+Italy,29.011,Traffic,12.2208,45.4756,2.0,Venezia                                                                         ,258685.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/44.png
+Lithuania,23.894,Traffic,23.9862,54.8951,31.0,Kaunas                                                                          ,289364.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/45.png
+Italy,20.925,Background,11.5397,45.5606,36.0,Vicenza                                                                         ,109855.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/46.png
+Italy,18.495,Traffic,14.7855,40.9188,357.0,Avellino                                                                        ,53346.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/47.png
+Italy,23.004,Traffic,8.4729,44.3127,12.0,Savona                                                                          ,59439.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/48.png
+Italy,18.54,Background,14.3447,41.0844,68.0,Caserta                                                                         ,73984.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/49.png
+Italy,29.978,Traffic,11.8906,45.4333,11.0,Padova                                                                          ,210077.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/50.png
+Italy,12.472,Background,11.8889,43.4611,260.0,Arezzo                                                                          ,98259.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/51.png
+Netherlands,20.458,Industrial,4.3552,51.8674,1.0,Greater Rotterdam                                                               ,1232747.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/52.png
+Italy,10.958,Background,17.2253,40.4233,10.0,Taranto                                                                         ,191050.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/53.png
+Italy,23.395,Traffic,9.8187,44.1016,3.0,La Spezia                                                                       ,92550.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/54.png
+Italy,18.707,Background,14.9758,40.6111,70.0,Battipaglia                                                                     ,50411.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/55.png
+Italy,15.621,Traffic,10.1328,44.0311,42.0,Massa                                                                           ,67579.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/56.png
+Italy,28.517,Traffic,14.2131,42.4664,9.0,Pescara                                                                         ,119862.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/57.png
+Lithuania,25.585,Traffic,25.2894,54.7153,119.0,Vilnius                                                                         ,561836.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/58.png
+Italy,20.775,Traffic,9.115,39.2358,33.0,Cagliari                                                                        ,151005.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/59.png
+Lithuania,12.036,Background,24.3656,55.725,52.0,Panevezys                                                                       ,85885.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/60.png
+Italy,21.116,Background,16.8597,41.1006,10.0,Bari                                                                            ,315284.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/61.png
+Italy,19.662,Background,8.6232,44.9203,91.0,Alessandria                                                                     ,92876.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/62.png
+Italy,17.257,Traffic,17.9478,40.6342,10.0,Brindisi                                                                        ,84465.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/63.png
+Poland,17.907,Background,17.0293,51.1294,114.0,Wroclaw                                                                         ,640648.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/64.png
+Norway,14.228,Background,10.3936,63.4304,30.0,Trondheim                                                                       ,179692.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/65.png
+Norway,10.321,Background,7.9918,58.1489,12.0,Kristiansand                                                                    ,84476.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/66.png
+Poland,24.239,Traffic,17.9879,53.1218,47.0,Bydgoszcz                                                                       ,350178.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/67.png
+Italy,46.79,Traffic,7.6953,45.1041,233.0,Torino                                                                          ,857910.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/68.png
+Italy,19.025,Background,8.2055,44.9089,150.0,Asti                                                                            ,75051.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/69.png
+Norway,15.399,Traffic,10.7246,59.9323,61.0,Oslo                                                                            ,623966.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/70.png
+Poland,12.279,Background,19.5298,51.758,235.0,LÃ³dz                                                                            ,685285.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/71.png
+Poland,10.147,Background,15.7656,50.9134,345.0,Jelenia GÃ³ra                                                                    ,79480.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/72.png
+Norway,14.1,Background,5.3127,60.3959,35.0,Bergen                                                                          ,267950.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/73.png
+Netherlands,23.064,Industrial,4.8321,52.4202,1.0,Greater Amsterdam                                                               ,996915.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/74.png
+Italy,14.369,Background,12.6517,42.5522,138.0,Terni                                                                           ,110003.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/75.png
+Italy,45.247,Traffic,15.0972,37.5158,38.0,Catania                                                                         ,296266.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/76.png
+Italy,20.391,Background,15.5478,41.4539,76.0,Foggia                                                                          ,149673.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/77.png
+Italy,14.903,Background,13.3831,42.3642,673.0,L'Aquila                                                                        ,70019.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/78.png
+Italy,10.661,Background,14.7145,36.9263,598.0,Ragusa                                                                          ,71438.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/79.png
+Italy,30.653,Background,14.6747,41.5542,650.0,Campobasso                                                                      ,48337.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/80.png
+Poland,17.509,Background,22.5691,51.2594,191.0,Lublin                                                                          ,339682.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/81.png
+Poland,16.939,Industrial,19.3687,51.668,186.0,Pabianice                                                                       ,65283.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/82.png
+Poland,17.08,Background,16.1805,51.2045,122.0,Legnica                                                                         ,99752.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/83.png
+Poland,18.562,Traffic,18.7621,53.4935,23.0,Grudziadz                                                                       ,95045.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/84.png
+Italy,13.648,Background,10.4017,43.7389,5.0,Pisa                                                                            ,90036.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/85.png
+Italy,22.167,Traffic,11.1053,43.8747,62.0,Prato                                                                           ,194223.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/86.png
+Italy,12.845,Background,11.1192,42.7786,10.0,Grosseto                                                                        ,81912.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/87.png
+Italy,33.795,Traffic,10.3297,43.5547,9.0,Livorno                                                                         ,157017.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/88.png
+Poland,13.51,Background,18.6661,53.0286,64.0,Torun                                                                           ,202074.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/89.png
+Poland,12.845,Background,23.2902,50.7166,226.0,Zamosc                                                                          ,63813.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/90.png
+Poland,27.283,Background,19.9492,50.0106,223.0,KrakÃ³w                                                                          ,771069.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/91.png
+Poland,12.487,Background,19.0445,52.6374,60.0,Wloclawek                                                                       ,110802.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/92.png
+Poland,26.703,Traffic,20.9926,50.0183,216.0,TarnÃ³w                                                                          ,109062.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/93.png
+Italy,13.556,Background,13.5086,43.6117,100.0,Ancona                                                                          ,99077.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/94.png
+Italy,9.987,Background,8.5761,40.7244,275.0,Sassari                                                                         ,125273.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/95.png
+Netherlands,21.883,Industrial,4.6018,52.463,1.0,Greater Haarlem                                                                 ,280309.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/96.png
+Netherlands,15.817,Background,5.8569,51.8382,30.0,Nijmegen                                                                        ,176731.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/97.png
+Netherlands,19.872,Traffic,5.1205,52.0677,1.0,Greater Utrecht                                                                 ,450062.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/98.png
+Latvia,23.759,Traffic,24.1212,56.9609,5.0,Riga                                                                            ,621120.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/99.png
+Poland,12.172,Background,16.2697,50.7687,424.0,Walbrzych                                                                       ,112594.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/100.png
+Poland,14.581,Background,19.4212,51.8567,189.0,Zgierz                                                                          ,56529.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/101.png
+Poland,17.5,Background,15.2287,52.7382,22.0,Gorzów Wielkopolski                                                             ,123921.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/102.png
+Poland,11.754,Background,22.0544,53.1814,128.0,Lomza                                                                           ,63000.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/103.png
+Poland,22.052,Background,20.6337,50.879,269.0,Kielce                                                                          ,195774.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/104.png
+Portugal,15.416,Background,-8.8731,38.5306,15.0,Setúbal                                                                         ,115126.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/105.png
+Poland,18.672,Background,18.9902,50.0999,252.0,Tychy                                                                           ,127831.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/106.png
+Poland,23.778,Background,18.975,50.2646,273.0,Katowice                                                                        ,294510.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/107.png
+Poland,10.609,Background,17.9503,50.6769,173.0,Opole                                                                           ,128137.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/108.png
+Poland,11.245,Background,19.4109,54.1678,15.0,Elblag                                                                          ,120142.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/109.png
+Poland,14.747,Background,19.1301,50.8364,265.0,Czestochowa                                                                     ,222292.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/110.png
+Portugal,14.113,Background,-9.1644,38.8297,10.0,Lisboa (greater city)                                                           ,1872036.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/111.png
+Poland,25.807,Traffic,19.0486,49.8021,333.0,Bielsko-Biala                                                                   ,171259.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/112.png
+Poland,17.979,Background,21.1475,51.3991,159.0,Radom                                                                           ,213029.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/113.png
+Poland,11.176,Background,20.4861,53.7892,120.0,Olsztyn                                                                         ,172362.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/114.png
+Poland,12.736,Background,14.6633,53.381,10.0,Szczecin                                                                        ,402465.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/115.png
+Poland,18.768,Background,18.7724,50.3165,255.0,Zabrze                                                                          ,173374.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/116.png
+Poland,18.653,Background,19.1844,50.286,250.0,Sosnowiec                                                                       ,202036.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/117.png
+Poland,12.734,Background,16.7596,53.1544,63.0,Pila                                                                            ,73398.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/118.png
+Poland,17.853,Background,21.0338,52.1608,102.0,Warszawa                                                                        ,1777972.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/119.png
+Poland,17.628,Background,16.9595,52.3982,67.0,Poznan                                                                          ,536438.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/120.png
+Poland,14.369,Background,18.0491,51.7479,140.0,Kalisz                                                                          ,100975.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/121.png
+Portugal,10.249,Background,-16.9183,32.6497,0.0,Funchal                                                                         ,104024.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/122.png
+Poland,11.079,Background,16.2117,54.1941,44.0,Koszalin                                                                        ,107321.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/123.png
+Romania,22.069,Traffic,28.0186,45.4204,51.0,Galati                                                                          ,304050.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/124.png
+Romania,14.13,Traffic,24.8546,44.8701,283.0,Pitesti                                                                         ,173985.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/125.png
+Romania,25.135,Background,23.5966,46.775,336.0,Cluj-Napoca                                                                     ,324960.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/126.png
+Romania,23.034,Industrial,25.4666,44.9152,273.0,Târgovi?te                                                                      ,91884.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/127.png
+Romania,24.021,Industrial,25.6257,45.6516,580.0,Brasov                                                                          ,289360.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/128.png
+Romania,25.947,Traffic,25.9721,43.9115,24.0,Giurgiu                                                                         ,67121.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/129.png
+Poland,9.832,Background,22.3483,53.8284,133.0,Elk                                                                             ,61928.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/130.png
+Portugal,18.847,Background,-8.5528,41.2067,140.0,Porto (greater city)                                                            ,955864.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/131.png
+Romania,13.393,Industrial,23.6142,47.6707,258.0,Baia Mare                                                                       ,145444.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/132.png
+Romania,31.574,Background,27.5819,47.151,42.0,Iasi                                                                            ,378954.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/133.png
+Romania,31.477,Traffic,26.034,44.922,145.0,Ploiesti                                                                        ,227445.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/134.png
+Romania,36.377,Traffic,21.2205,45.7776,89.0,Timisoara                                                                       ,328186.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/135.png
+Romania,21.603,Background,21.9272,47.0687,128.0,Oradea                                                                          ,221407.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/136.png
+Romania,22.959,Background,24.5596,46.541,329.0,Târgu Mure?                                                                     ,147674.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/137.png
+Romania,26.516,Traffic,21.335,46.1811,107.0,Arad                                                                            ,176846.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/138.png
+Romania,23.169,Background,26.8186,45.1541,98.0,Buzau                                                                           ,132288.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/139.png
+Romania,16.709,Background,26.249,47.6493,375.0,Suceava                                                                         ,124589.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/140.png
+Romania,22.69,Background,24.1535,45.785,432.0,Sibiu                                                                           ,168697.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/141.png
+Romania,17.028,Background,24.3698,45.0827,226.0,Râmnicu Vâlcea                                                                  ,117776.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/142.png
+Slovakia,31.797,Traffic,17.1289,48.1584,136.0,Bratislava                                                                      ,437726.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/143.png
+"Spain,17.859,Industrial,-5.3484,36.1594,1.0,La Línea de la Concepción                                                      "",63630.0;;;;;;;;;;;/work/cvcs2024/air_pollution_prediction/SENTINEL_5/144.png",,,,,,,,
+Portugal,11.281,Background,-9.3472,38.785,173.0,Sintra                                                                          ,391402.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/145.png
+Portugal,21.067,Traffic,-8.3381,41.2075,184.0,Paredes                                                                         ,86067.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/146.png
+Portugal,13.812,Traffic,-8.6467,40.6356,16.0,Aveiro                                                                          ,78734.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/147.png
+Portugal,9.821,Background,-8.4108,40.2069,138.0,Coimbra                                                                         ,134166.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/148.png
+Poland,10.211,Background,18.4933,54.5608,70.0,Gdynia                                                                          ,246309.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/149.png
+Poland,27.02,Traffic,22.0047,50.0407,202.0,Rzeszów                                                                         ,191564.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/150.png
+Portugal,16.198,Background,-9.0403,38.8961,22.0,Vila Franca de Xira                                                             ,141957.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/151.png
+Slovakia,24.095,Traffic,18.0413,48.8965,214.0,Tren?ín                                                                         ,55383.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/152.png
+Spain,7.986,Industrial,-15.4276,27.8155,15.0,Santa Lucía de Tirajana                                                         ,74602.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/153.png
+Spain,17.286,Industrial,-4.7339,41.6561,691.0,Valladolid                                                                      ,299265.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/154.png
+Spain,24.617,Industrial,-8.4249,43.3542,65.0,A Coruña                                                                        ,247604.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/155.png
+Spain,24.457,Industrial,-3.801,40.2815,674.0,Madrid                                                                          ,5098717.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/156.png
+Sweden,11.746,Background,11.9702,57.709,31.3,Göteborg                                                                        ,564039.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/157.png
+Sweden,16.71,Traffic,18.0583,59.3408,8.0,Stockholm (greater city)                                                        ,1745766.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/158.png
+Sweden,12.215,Traffic,16.5359,59.6077,30.0,Västerås                                                                        ,150134.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/159.png
+Sweden,19.918,Traffic,17.6211,59.1981,28.0,Sodertalje                                                                      ,75773.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/160.png
+Sweden,19.26,Traffic,13.006,55.5844,11.0,Malmö                                                                           ,333633.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/161.png
+Sweden,22.175,Traffic,17.6463,59.8571,15.0,Uppsala                                                                         ,219914.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/162.png
+Switzerland,17.879,Background,7.5821,47.5659,260.0,Basel (greater city)                                                            ,342698.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/163.png
+Poland,17.39,Background,18.6353,54.3533,51.0,Gdansk                                                                          ,466631.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/164.png
+Poland,13.977,Background,18.2689,52.2256,100.0,Konin                                                                           ,74151.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/165.png
+Italy,33.747,Traffic,10.9047,44.636,39.0,Modena                                                                          ,189013.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/166.png
+Italy,27.247,Traffic,9.6933,45.0489,61.0,Piacenza                                                                        ,104260.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/167.png
+Italy,25.983,Traffic,12.0564,44.215,26.0,Forlì                                                                           ,118292.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/168.png
+Sweden,6.671,Background,13.2008,55.7008,60.0,Lund                                                                            ,121274.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/169.png
+Sweden,16.44,Traffic,12.7094,56.0431,24.8,Helsingborg                                                                     ,143304.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/170.png
+Sweden,6.353,Background,16.1893,58.592,28.0,Norrköping                                                                      ,140927.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/171.png
+Belgium,22.845,Background,4.4285,51.2286,0.0,Antwerpen                                                                       ,530014.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/172.png
+Belgium,24.912,Traffic,4.4833,51.0204,0.0,Mechelen                                                                        ,86911.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/173.png
+Belgium,22.675,Traffic,3.735,51.0407,8.0,Gent                                                                            ,263687.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/174.png
+Belgium,20.832,Background,4.4522,50.4093,115.0,Charleroi                                                                       ,203314.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/175.png
+Bulgaria,18.404,Background,26.9384,43.2682,212.0,Shumen                                                                          ,75442.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/176.png
+Bulgaria,14.343,Background,23.5574,43.208,363.0,Vratsa                                                                          ,51674.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/177.png
+Bulgaria,11.868,Background,24.7652,42.1429,166.0,Plovdiv                                                                         ,347851.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/178.png
+Romania,23.272,Industrial,28.6238,44.1494,39.0,Constanta                                                                       ,313021.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/179.png
+Portugal,31.811,Traffic,-8.2964,41.4497,185.0,Guimarães                                                                       ,152309.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/180.png
+Portugal,8.21,Background,-7.9267,37.015,4.0,Faro                                                                            ,61015.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/181.png
+Sweden,13.13,Traffic,15.6301,58.4124,46.0,Linköping                                                                       ,158520.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/182.png
+Bulgaria,24.257,Background,23.311,42.7323,534.0,Sofia                                                                           ,1242568.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/183.png
+Bulgaria,12.916,Industrial,27.3751,42.5189,6.0,Burgas                                                                          ,201779.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/184.png
+Bulgaria,21.53,Background,25.9641,43.8514,41.0,Ruse                                                                            ,141231.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/185.png
+Bulgaria,15.034,Background,23.0978,42.0019,414.0,Blagoevgrad                                                                     ,68679.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/186.png
+Luxembourg,21.732,Traffic,6.1172,49.5935,293.0,Luxembourg                                                                      ,115227.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/187.png
+Netherlands,11.564,Background,5.9869,50.9003,98.0,Greater Heerlen                                                                 ,198168.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/188.png
+Lithuania,24.628,Traffic,21.1795,55.69,12.0,Klaipeda                                                                        ,149116.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/189.png
+Bulgaria,15.186,Background,24.6243,43.409,100.0,Pleven                                                                          ,95086.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/190.png
+Croatia,39.62,Traffic,15.9741,45.8003,0.0,Zagreb                                                                          ,806772.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/191.png
+Bulgaria,12.179,Background,27.936,43.2173,51.0,Varna                                                                           ,336216.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/192.png
+Croatia,23.915,Traffic,18.6988,45.5588,0.0,Osijek                                                                          ,103209.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/193.png
+Croatia,13.335,Background,14.4835,45.3208,0.0,Rijeka                                                                          ,115219.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/194.png
+Lithuania,17.767,Traffic,23.308,55.9378,122.0,Siauliai                                                                        ,101511.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/195.png
+Netherlands,19.76,Traffic,5.4448,51.4442,18.0,Greater Eindhoven                                                               ,276979.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/196.png
+Slovakia,24.007,Traffic,19.1549,48.7352,346.0,Banská Bystrica                                                                 ,78084.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/197.png
+Slovakia,33.39,Traffic,21.2668,48.9925,252.0,Presov                                                                          ,88464.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/198.png
+Romania,14.907,Background,26.3893,46.9341,357.0,Piatra Neamt                                                                    ,112786.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/199.png
+Romania,18.154,Industrial,26.918,46.9488,208.0,Roman                                                                           ,69229.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/200.png
+Slovakia,22.057,Traffic,21.2588,48.7263,209.0,Kosice                                                                          ,238593.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/201.png
+Croatia,19.97,Traffic,16.4493,43.5107,0.0,Split                                                                           ,168299.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/202.png
+Czechia,18.913,Background,14.3801,50.0844,300.0,Praha                                                                           ,1324277.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/203.png
+Czechia,11.986,Background,14.4657,48.9844,383.0,?eské Bud?jovice                                                                ,94463.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/204.png
+Cyprus,28.006,Traffic,33.3478,35.1519,175.0,Lefkosia                                                                        ,241400.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/205.png
+Spain,22.914,Traffic,-5.9596,37.3843,29.0,Sevilla                                                                         ,884899.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/206.png
+Slovenia,21.523,Background,14.5127,46.0655,299.0,Ljubljana                                                                       ,289518.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/207.png
+Slovakia,22.491,Traffic,18.0768,48.3095,143.0,Nitra                                                                           ,76533.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/208.png
+Spain,17.295,Background,-0.8869,41.6752,200.0,Zaragoza                                                                        ,681877.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/209.png
+Spain,9.551,Traffic,-6.9351,37.2534,18.0,Huelva                                                                          ,143837.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/210.png
+Slovakia,27.964,Traffic,17.5849,48.3712,152.0,Trnava                                                                          ,65033.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/211.png
+Spain,19.596,Traffic,-2.4467,36.8413,51.0,Almería                                                                         ,201322.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/212.png
+Slovenia,8.027,Background,15.6261,46.5684,280.0,Maribor                                                                         ,110871.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/213.png
+Czechia,20.952,Background,16.6163,49.2027,225.0,Brno                                                                            ,381346.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/214.png
+Czechia,15.129,Traffic,15.8464,50.1954,232.0,Hradec Králové                                                                  ,92939.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/215.png
+Czechia,13.025,Background,14.106,50.1674,219.0,Kladno                                                                          ,69337.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/216.png
+Czechia,16.396,Traffic,13.4023,49.7324,340.0,Plzen                                                                           ,174842.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/217.png
+Czechia,12.773,Background,15.07,50.7551,422.0,Liberec                                                                         ,104802.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/218.png
+Czechia,17.951,Background,17.2381,49.6015,224.0,Olomouc                                                                         ,100663.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/219.png
+Czechia,16.929,Background,18.2637,49.8392,220.0,Ostrava                                                                         ,287968.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/220.png
+Estonia,14.64,Traffic,24.7606,59.4311,5.0,Tallinn                                                                         ,438341.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/221.png
+Czechia,17.456,Background,13.6453,50.5104,221.0,Most                                                                            ,66034.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/222.png
+Czechia,28.153,Traffic,13.9979,50.6831,230.0,Ústí nad Labem                                                                  ,92716.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/223.png
+Denmark,8.993,Background,10.1936,56.1598,21.0,Aarhus                                                                           ,319094.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/224.png
+Denmark,17.418,Traffic,12.5533,55.6983,5.0,København                                                                       ,559440.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/225.png
+Denmark,6.432,Background,10.3892,55.3964,25.0,Odense                                                                          ,193370.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/226.png
+Denmark,7.872,Background,9.9309,57.0467,30.0,Aalborg                                                                         ,203448.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/227.png
+Estonia,8.443,Background,26.7347,58.3706,41.0,Tartu                                                                           ,95430.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/228.png
+Estonia,7.229,Background,28.1792,59.3762,25.0,Narva                                                                           ,53424.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/229.png
+Romania,19.625,Industrial,24.3514,44.4295,160.0,Slatina                                                                         ,82931.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/230.png
+Romania,19.898,Background,22.8762,47.7975,125.0,Satu Mare                                                                       ,119788.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/231.png
+Spain,16.49,Industrial,-5.4426,36.1617,1.0,Algeciras                                                                       ,123078.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/232.png
+Slovakia,19.338,Background,18.7712,49.2114,356.0,Zilina                                                                          ,80727.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/233.png
+Finland,11.76,Traffic,25.7479,62.2382,82.0,Jyväskylä                                                                       ,142400.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/234.png
+France,21.377,Background,2.2236,48.9514,56.0,Paris (greater city)                                                            ,9845879.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/235.png
+Finland,11.572,Background,24.9506,60.1874,18.0,Helsinki / Helsingfors (greater city)                                           ,1154967.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/236.png
+Finland,12.387,Traffic,27.6619,62.882,107.0,Kuopio                                                                          ,119282.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/237.png
+Spain,12.068,Industrial,-15.4161,28.0299,90.0,Telde                                                                           ,102791.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/238.png
+Spain,25.758,Traffic,-5.833,43.3665,180.0,Oviedo                                                                          ,219910.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/239.png
+Spain,20.632,Traffic,-5.6735,43.5299,29.0,Gijón                                                                          ,271717.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/240.png
+Spain,16.095,Traffic,-5.9275,43.5589,12.0,Avilés                                                                          ,77791.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/241.png
+Spain,11.652,Background,-16.2768,28.4554,169.0,Santa Cruz de Tenerife                                                          ,368105.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/242.png
+Spain,20.226,Industrial,2.7011,39.5477,2.0,Palma de Mallorca                                                               ,422587.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/243.png
+Spain,9.281,Industrial,1.4349,38.9072,44.0,Eivissa                                                                         ,51128.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/244.png
+Finland,12.172,Traffic,23.7357,61.4987,120.0,Tampere / Tammerfors                                                            ,238140.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/245.png
+Romania,16.822,Traffic,28.7869,45.1795,7.0,Tulcea                                                                          ,86520.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/246.png
+Romania,41.577,Traffic,26.1273,44.4449,81.0,Bucuresti                                                                       ,2131034.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/247.png
+Spain,10.728,Industrial,-15.4163,28.0351,53.0,Las Palmas                                                                      ,381223.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/248.png
+Finland,14.859,Traffic,25.4713,65.01,5.0,Oulu                                                                            ,205489.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/249.png
+Finland,9.887,Traffic,25.6658,60.9913,85.0,Lahti / Lahtis                                                                  ,119823.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/250.png
+Spain,26.538,Traffic,-4.8257,39.9638,380.0,Talavera de la Reina                                                            ,83663.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/251.png
+Spain,7.795,Background,-13.5559,28.9679,22.0,Arrecife                                                                        ,64645.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/252.png
+Spain,8.772,Background,-4.0642,43.3464,20.0,Torrelavega                                                                     ,51597.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/253.png
+Spain,26.802,Background,2.2095,41.4474,23.0,Barcelona                                                                       ,3755512.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/254.png
+Spain,18.94,Traffic,-0.3758,39.4561,11.0,Valencia                                                                        ,1417464.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/255.png
+Spain,16.173,Background,2.4433,41.5472,40.0,MatarÃ³                                                                          ,129661.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/256.png
+Spain,16.386,Background,-3.1716,40.6298,700.0,Guadalajara                                                                     ,87484.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/257.png
+Spain,17.735,Traffic,-0.4719,38.3594,45.0,Alicante/Alacant                                                                ,337482.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/258.png
+Italy,15.659,Background,13.5041,38.0861,51.0,Bagheria                                                                        ,53409.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/259.png
+France,10.354,Background,0.196,47.9889,50.0,Le Mans                                                                         ,150369.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/260.png
+France,13.624,Background,-1.1537,46.1626,10.0,La Rochelle                                                                     ,82783.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/261.png
+Spain,11.371,Traffic,-0.2347,39.6672,10.0,Sagunto                                                                         ,67173.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/262.png
+Sweden,15.095,Traffic,14.1595,57.7782,97.5,JÃ¶nkÃ¶ping                                                                       ,137481.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/263.png
+Switzerland,24.647,Traffic,6.6396,46.522,530.0,Lausanne (greater city)                                                         ,250937.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/264.png
+Sweden,19.084,Traffic,12.9447,57.7208,143.0,BorÃ¥s                                                                           ,111026.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/265.png
+France,8.928,Background,-0.5501,47.4474,30.0,Angers                                                                          ,180297.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/266.png
+France,11.673,Background,-0.5804,44.8612,3.0,Bordeaux                                                                        ,650138.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/267.png
+France,8.43,Background,0.3585,46.587,119.0,Poitiers                                                                        ,98314.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/268.png
+France,7.123,Background,-2.2499,47.2641,10.0,Saint-Nazaire                                                                   ,69993.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/269.png
+France,21.549,Traffic,1.2548,45.83,246.0,Limoges                                                                         ,143147.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/270.png
+Spain,11.836,Traffic,-8.5311,42.8878,260.0,Santiago de Compostela                                                          ,97848.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/271.png
+Switzerland,29.169,Background,6.1411,46.2078,383.0,GenÃ¨ve (greater city)                                                           ,407605.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/272.png
+Switzerland,28.011,Traffic,8.5235,47.3709,415.0,ZÃ¼rich (greater city)                                                           ,677118.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/273.png
+Switzerland,28.543,Traffic,8.3044,47.0458,441.0,Luzern (greater city)                                                           ,160566.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/274.png
+Switzerland,25.84,Traffic,7.4409,46.951,536.0,Bern (greater city)                                                             ,227924.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/275.png
+France,10.418,Background,-1.5375,47.2225,20.0,Nantes                                                                          ,450218.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/276.png
+France,10.273,Background,-0.3915,43.3108,197.0,Pau                                                                             ,110402.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/277.png
+France,17.05,Traffic,-1.5288,43.494,40.0,Bayonne                                                                         ,115561.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/278.png
+Italy,34.798,Traffic,12.5756,44.0522,3.0,Rimini                                                                          ,149335.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/279.png
+Sweden,20.72,Traffic,20.2585,63.8289,15.0,Umeå                                                                            ,125080.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/280.png
+Switzerland,20.933,Background,8.9571,46.0111,280.0,Lugano (greater city)                                                           ,88484.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/281.png
+Switzerland,26.425,Traffic,9.374,47.4271,675.0,St. Gallen                                                                      ,75522.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/282.png
+Spain,26.471,Traffic,-1.9808,43.3122,6.0,San SebastiÃ¡n/Donostia                                                          ,188240.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/283.png
+France,9.864,Background,0.6538,47.3441,90.0,Tours                                                                           ,242529.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/284.png
+France,7.118,Background,55.4688,-20.8899,20.0,Saint Denis                                                                     ,147931.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/285.png
+France,15.521,Traffic,-61.0536,14.6023,15.0,Fort-de-France                                                                  ,100038.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/286.png
+France,14.045,Background,2.9005,42.6955,48.0,Perpignan                                                                       ,130264.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/287.png
+France,23.492,Traffic,3.8746,43.6051,55.0,Montpellier                                                                     ,305601.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/288.png
+France,14.021,Background,1.4181,43.5757,144.0,Toulouse                                                                        ,613199.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/289.png
+France,14.086,Traffic,1.4925,48.4492,129.0,Chartres                                                                        ,75990.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/290.png
+France,11.669,Traffic,2.4072,47.075,156.0,Bourges                                                                         ,64551.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/291.png
+France,21.999,Traffic,1.9011,47.9071,117.0,Orléans                                                                         ,208564.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/292.png
+France,2.991,Background,-52.3209,4.9379,5.0,Cayenne                                                                         ,122737.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/293.png
+France,13.977,Background,-61.5341,16.2367,7.0,Les Abymes                                                                      ,53082.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/294.png
+France,12.202,Background,4.3744,43.8344,42.0,Nîmes                                                                           ,150610.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/295.png
+France,18.19,Background,5.9242,43.1311,26.0,Toulon                                                                          ,334333.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/296.png
+France,11.324,Industrial,0.2325,49.5027,80.0,Le Havre                                                                        ,195042.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/297.png
+France,23.321,Background,5.3947,43.3053,73.0,Marseille                                                                       ,895431.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/298.png
+France,17.714,Background,1.0938,49.4424,17.0,Rouen                                                                           ,309039.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/299.png
+France,16.347,Background,7.0059,43.5584,71.0,Nice                                                                            ,670215.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/300.png
+France,27.174,Traffic,5.4482,43.5241,182.0,Aix-en-Provence                                                                 ,142482.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/301.png
+France,11.131,Background,-1.6244,49.6422,6.0,Cherbourg                                                                       ,79200.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/302.png
+France,10.53,Background,-0.3528,49.1517,22.0,Caen                                                                            ,144972.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/303.png
+Germany,10.336,Background,10.1056,54.3476,30.0,Kiel                                                                            ,246794.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/304.png
+Austria,16.824,Background,14.2991,46.6266,445.0,Klagenfurt                                                                      ,96640.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/305.png
+Austria,19.713,Background,14.2975,48.3061,260.0,Linz                                                                            ,193814.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/306.png
+Austria,17.061,Traffic,13.0433,47.8056,430.0,Salzburg                                                                        ,146631.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/307.png
+France,20.983,Background,4.8298,45.7353,172.0,Lyon                                                                            ,1076752.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/308.png
+France,30.883,Traffic,5.7206,45.1807,218.0,Grenoble                                                                        ,305569.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/309.png
+France,12.926,Background,4.8043,43.9497,19.0,Avignon                                                                         ,109451.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/310.png
+Austria,21.209,Traffic,15.4667,47.0595,366.0,Graz                                                                            ,269997.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/311.png
+Austria,23.018,Traffic,11.4169,47.2713,570.0,Innsbruck                                                                       ,124579.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/312.png
+Austria,16.124,Background,16.3498,48.2191,184.0,Wien                                                                            ,1766746.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/313.png
+France,16.503,Background,5.9283,45.5647,280.0,Chambéry                                                                        ,87711.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/314.png
+France,31.019,Traffic,4.3888,45.448,498.0,Saint-Etienne                                                                   ,194561.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/315.png
+France,17.604,Background,6.2406,46.1958,441.0,Annemasse                                                                       ,61518.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/316.png
+France,15.994,Background,3.0875,45.7722,390.0,Clermont-Ferrand                                                                ,195162.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/317.png
+France,13.071,Background,6.1356,45.9169,461.0,Annecy                                                                          ,126924.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/318.png
+Belgium,26.876,Traffic,4.3846,50.8251,76.0,Bruxelles / Brussel                                                             ,1223364.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/319.png
+France,14.355,Background,4.0747,46.0411,259.0,Roanne                                                                          ,45140.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/320.png
+France,14.042,Background,2.3324,51.0328,4.0,Dunkerque                                                                       ,135715.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/321.png
+France,15.661,Background,4.8935,44.9335,125.0,Valence                                                                         ,94650.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/322.png
+France,13.959,Background,3.508,50.3585,43.0,Valenciennes                                                                    ,103476.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/323.png
+France,14.415,Background,3.284,49.8513,95.0,Saint-Quentin                                                                   ,53816.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/324.png
+France,20.321,Traffic,-4.4887,48.3975,59.0,Brest                                                                           ,140064.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/325.png
+France,8.334,Background,-2.7495,48.5135,90.0,Saint-Brieuc                                                                    ,64350.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/326.png
+France,24.461,Traffic,3.1807,50.7065,31.0,Lille                                                                           ,906981.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/327.png
+France,14.304,Background,6.1808,49.1194,192.0,Metz                                                                            ,166252.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/328.png
+France,13.533,Background,2.3046,49.9017,26.0,Amiens                                                                          ,137609.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/329.png
+France,13.033,Traffic,-3.3694,47.7589,19.0,Lorient                                                                         ,79877.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/330.png
+France,22.457,Traffic,-1.6798,48.1075,27.0,Rennes                                                                          ,216815.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/331.png
+France,13.166,Background,1.8901,50.9578,3.0,Calais                                                                          ,73911.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/332.png
+France,30.101,Traffic,4.0231,49.2507,80.0,Reims                                                                           ,209507.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/333.png
+France,12.146,Background,3.0659,50.3782,28.0,Douai                                                                           ,86074.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/334.png
+France,29.954,Traffic,7.745,48.5904,139.0,Strasbourg                                                                      ,405733.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/335.png
+France,12.939,Background,7.3091,47.7374,267.0,Mulhouse                                                                        ,180040.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/336.png
+France,13.978,Background,6.1904,48.6882,200.0,Nancy                                                                           ,203610.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/337.png
+France,18.7,Background,5.0411,47.3257,246.0,Dijon                                                                           ,198870.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/338.png
+France,13.732,Background,6.0154,47.2474,321.0,Besançon                                                                        ,115934.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/339.png
+France,16.809,Background,2.4744,49.2596,34.0,Creil                                                                           ,75375.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/340.png
+France,9.841,Background,4.0503,48.295,119.0,Troyes                                                                          ,106948.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/341.png
+France,16.849,Traffic,6.8593,47.6407,360.0,Belfort                                                                         ,62945.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/342.png
+France,19.815,Background,7.3507,48.0746,195.0,Colmar                                                                          ,69105.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/343.png
+Germany,9.788,Background,14.3345,51.7468,75.0,Cottbus                                                                         ,99678.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/344.png
+France,8.72,Traffic,45.2232,-12.7729,7.0,Mamoudzou                                                                       ,103593.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/345.png
+Germany,23.334,Traffic,13.0946,52.3889,32.0,Potsdam                                                                         ,180334.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/346.png
+Netherlands,21.51,Industrial,4.7735,52.428,4.0,Zaanstad                                                                        ,155885.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/347.png
+Germany,27.028,Traffic,14.5386,52.3373,56.0,Frankfurt (Oder)                                                                ,57751.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/348.png
+Germany,19.724,Traffic,12.5486,52.4094,33.0,Brandenburg an der Havel                                                        ,72184.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/349.png
+Germany,15.092,Background,9.4857,47.6601,404.0,Friedrichshafen                                                                 ,61283.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/350.png
+Germany,17.599,Background,9.979,48.3968,481.0,Ulm                                                                             ,126790.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/351.png
+Netherlands,17.134,Traffic,6.5789,53.2178,2.0,Groningen                                                                       ,231299.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/352.png
+Netherlands,16.344,Industrial,4.602,52.494,7.0,Greater Heemskerk                                                               ,93868.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/353.png
+Malta,28.513,Traffic,14.4899,35.8958,2.0,Valletta                                                                        ,255266.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/354.png
+Germany,18.2,Background,8.6655,48.889,278.0,Pforzheim                                                                       ,125957.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/355.png
+Germany,30.908,Traffic,9.1845,48.7687,302.0,Stuttgart                                                                       ,635911.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/356.png
+Germany,14.833,Background,9.1693,47.6644,403.0,Konstanz                                                                        ,84911.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/357.png
+Germany,37.098,Traffic,9.1937,48.8982,285.0,Ludwigsburg                                                                     ,93584.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/358.png
+Germany,18.161,Background,9.2248,49.1655,157.0,Heilbronn                                                                       ,126592.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/359.png
+Germany,17.162,Background,9.2073,48.4889,385.0,Reutlingen                                                                      ,115865.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/360.png
+Germany,14.106,Background,8.6767,49.4195,112.0,Heidelberg                                                                      ,161485.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/361.png
+Germany,20.705,Traffic,10.895,48.3646,492.0,Augsburg                                                                        ,296582.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/362.png
+Germany,19.819,Background,11.5547,48.1545,521.0,München                                                                         ,1484226.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/363.png
+Germany,14.455,Background,8.3556,49.0286,114.0,Karlsruhe                                                                       ,312060.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/364.png
+Germany,31.757,Traffic,8.472,49.4926,101.0,Mannheim                                                                        ,310658.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/365.png
+Germany,27.892,Traffic,7.8599,47.9882,289.0,Freiburg im Breisgau                                                            ,231195.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/366.png
+Germany,24.631,Traffic,11.0884,49.4459,307.0,Norimberga                                                                        ,518370.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/367.png
+Germany,16.541,Background,10.2321,50.0484,231.0,Schweinfurt                                                                     ,53426.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/368.png
+Germany,29.146,Traffic,9.058,48.5202,340.0, Tubinga                                                                        ,91506.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/369.png
+Germany,20.123,Traffic,11.5701,49.9436,337.0,Bayreuth                                                                        ,74783.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/370.png
+Germany,14.346,Background,8.6255,53.1809,20.0,Bremen                                                                          ,567559.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/371.png
+Germany,15.075,Background,8.6646,49.8723,153.0,Darmstadt                                                                       ,159878.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/372.png
+Germany,27.82,Traffic,8.5988,53.5853,5.0,Bremerhaven                                                                     ,113643.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/373.png
+Germany,22.621,Traffic,11.4346,48.7426,367.0,Ingolstadt                                                                      ,137392.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/374.png
+Germany,26.449,Traffic,12.1016,49.0152,337.0,Regensburg                                                                      ,153094.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/375.png
+Germany,23.834,Traffic,9.9477,49.7905,198.0,Würzburg                                                                        ,127934.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/376.png
+Germany,21.529,Traffic,13.7414,51.0649,112.0,Dresden                                                                         ,556780.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/377.png
+Germany,24.369,Traffic,12.9034,50.8457,327.0,Chemnitz                                                                        ,246334.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/378.png
+Germany,16.679,Background,10.8877,49.8983,231.0,Bamberg                                                                         ,77373.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/379.png
+Germany,16.523,Traffic,11.9839,51.4758,111.0,Halle an der Saale                                                              ,238762.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/380.png
+Germany,17.508,Traffic,12.4866,50.7204,267.0,Zwickau                                                                         ,88690.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/381.png
+Germany,10.287,Background,7.0363,49.2372,315.0,Saarbrücken                                                                     ,180374.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/382.png
+Germany,21.836,Traffic,11.6327,52.1208,53.0,Magdeburg                                                                       ,237565.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/383.png
+Germany,20.727,Traffic,11.0104,50.9723,210.0,Erfurt                                                                          ,213981.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/384.png
+Germany,18.61,Traffic,14.974,51.1558,210.0,Görlitz                                                                         ,55980.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/385.png
+Greece,34.949,Traffic,22.9451,40.6337,27.0,Thessaloniki                                                                    ,315196.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/386.png
+Germany,12.454,Background,11.5971,50.9335,140.0,Jena                                                                            ,111343.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/387.png
+Greece,45.646,Traffic,23.7276,37.9881,95.0,Athina                                                                          ,664046.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/388.png
+Germany,16.705,Traffic,12.1381,50.4861,343.0,Plauen                                                                          ,64597.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/389.png
+Germany,16.449,Traffic,11.3261,50.9775,220.0,Weimar                                                                          ,65228.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/390.png
+Greece,30.02,Traffic,21.7345,38.2465,19.0,Patrasso                                                                           ,170896.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/391.png
+Germany,11.544,Traffic,12.2387,51.8858,71.0,Dessau-Roßlau                                                                   ,80103.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/392.png
+Germany,13.737,Background,12.0749,50.8779,190.0,Gera                                                                            ,93125.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/393.png
+Hungary,27.846,Traffic,20.79,48.1069,125.0,Miskolc                                                                         ,152901.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/394.png
+Hungary,14.843,Background,21.6244,47.5133,111.0,Debrecen                                                                        ,201112.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/395.png
+Hungary,16.662,Background,17.6497,47.6761,101.0,Gy?r                                                                            ,133946.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/396.png
+Hungary,37.389,Traffic,18.2253,46.0711,120.0,Pécs                                                                            ,141843.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/397.png
+Hungary,14.043,Traffic,18.4208,47.5572,199.0,Tatabánya                                                                       ,66141.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/398.png
+Hungary,15.328,Background,16.575,47.6919,241.0,Sopron                                                                          ,63065.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/399.png
+Hungary,33.341,Traffic,19.0878,47.4919,90.0,Budapest                                                                        ,1750216.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/400.png
+Hungary,12.173,Background,20.1531,46.2666,79.0,Szeged                                                                          ,160258.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/401.png
+Hungary,17.936,Traffic,21.7058,47.9611,115.0,Nyíregyháza                                                                     ,116814.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/402.png
+Ireland,15.145,Traffic,-6.2141,53.3419,4.0,Dublin                                                                          ,516255.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/403.png
+Iceland,5.155,Background,-21.8734,64.1389,19.0,Reykjavik                                                                       ,132252.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/404.png
+Hungary,15.689,Industrial,18.9361,46.9761,215.0,Dunaújváros                                                                     ,43310.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/405.png
+Spain,11.32,Traffic,-6.2686,36.506,4.0,Cadice                                                                           ,115439.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/406.png
+Spain,15.88,Background,-3.7816,37.7826,480.0,Jaén                                                                            ,112757.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/407.png
+Spain,12.118,Traffic,-5.6653,40.9792,797.0,Salamanca                                                                       ,144825.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/408.png
+Spain,15.987,Background,-3.7903,43.4678,30.0,Santander                                                                       ,173375.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/409.png
+Spain,18.675,Traffic,-5.5872,42.6039,838.0,León                                                                            ,124028.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/410.png
+Spain,9.66,Traffic,-0.69,37.9911,10.0,Torrevieja                                                                      ,84667.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/411.png
+Spain,6.864,Background,-0.4669,38.7064,534.0,Alcoy                                                                           ,59354.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/412.png
+Spain,7.006,Traffic,-4.5383,42.0194,953.0,Palencia                                                                        ,78144.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/413.png
+Spain,12.275,Traffic,-0.7175,38.2592,99.0,Elche/Elx                                                                       ,234765.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/414.png
+Spain,14.778,Traffic,-0.0261,39.9889,18.0,Castellón de la Plana                                      ,174264.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/415.png
+Spain,8.303,Background,-6.3381,38.9075,214.0,Mérida                                                                          ,59548.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/416.png
+Spain,12.258,Background,-7.0115,38.8876,390.0,Badajoz                                                                         ,150984.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/417.png
+Spain,20.967,Industrial,-8.747,42.2029,26.0,Vigo                                                                            ,296692.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/418.png
+Spain,5.529,Background,-6.3603,39.4728,389.0,Cáceres                                                                         ,96255.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/419.png
+Spain,24.725,Traffic,-3.378,40.4793,589.0,Alcalá de Henares                                                               ,197562.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/420.png
+Spain,9.629,Traffic,-7.5509,42.9979,450.0,Lugo                                                                            ,98519.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/421.png
+Netherlands,23.162,Traffic,4.3159,52.0751,4.0,Den Haag                                                           ,769888.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/422.png
+Spain,20.175,Industrial,-2.8837,43.2411,125.0,Bilbao                                                                          ,797590.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/423.png
+Spain,17.363,Background,-1.653,42.806,449.0,Pamplona                                                                  ,334398.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/424.png
+Spain,18.522,Traffic,-7.8779,42.353,132.0,Ourense                                                                         ,105643.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/425.png
+Spain,15.682,Traffic,-8.644,42.4259,15.0,Pontevedra                                                                      ,83260.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/426.png
+Spain,10.121,Traffic,-8.2431,43.4815,5.0,Ferrol                                                                          ,65560.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/427.png
+Spain,16.69,Background,-0.9753,37.6031,10.0,Cartagena                                                                       ,216108.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/428.png
+Spain,22.873,Traffic,-4.0143,40.6339,873.0,Collado Villalba                                                                ,64378.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/429.png
+Spain,20.552,Traffic,2.8166,41.9764,73.0,Girona                                                                          ,103369.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/430.png
+Spain,17.668,Traffic,-2.6807,42.8548,517.0,Vitoria/Gasteiz                                                                 ,253996.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/431.png
+Poland,17.361,Background,19.697,51.4044,180.0,Piotrków Trybunalski                                                            ,73670.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/432.png
+Poland,11.833,Background,23.1559,53.1267,145.0,Bialystok                                                                       ,297459.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/433.png
+Spain,15.281,Background,-2.428,42.464,385.0,Logroño                                                                         ,152485.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/434.png
+Spain,20.575,Background,-5.3147,35.893,1.0,Ceuta                                                                           ,84202.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/435.png
+Poland,19.162,Background,20.7144,49.6193,305.0,Nowy Sacz                                                                       ,83896.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/436.png
+Poland,10.767,Background,22.7562,49.7843,201.0,Przemysl                                                                        ,61251.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/437.png
+Poland,20.42,Background,18.5161,50.1112,245.0,Rybnik                                                                          ,138696.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/438.png
+Portugal,39.211,Traffic,-8.4058,41.5497,175.0,Braga                                                                           ,182679.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/439.png
+Romania,15.551,Industrial,23.274,45.0502,208.0,Târgu Jiu                                                                       ,95351.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/440.png
+Romania,28.424,Industrial,23.7787,44.3268,83.0,Craiova                                                                         ,301269.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/441.png
+Romania,28.537,Traffic,27.3137,44.2042,18.0,Calarasi                                                                        ,75810.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/442.png
+Romania,23.143,Background,24.4955,47.1274,357.0,Bistrita                                                                        ,94139.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/443.png
+Poland,10.561,Background,15.5189,51.9398,150.0,Zielona Góra                                                                    ,140297.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/444.png
+Poland,12.843,Background,19.6877,52.5563,97.0,Plock                                                                           ,120000.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/445.png
+Romania,18.164,Background,27.9695,45.2631,19.0,Braila                                                                          ,202740.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/446.png
+Romania,20.027,Industrial,22.662,44.6266,53.0,Drobeta-Turnu Severin                                                           ,106707.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/447.png
+Romania,23.468,Background,26.9107,46.5644,169.0,Bacau                                                                           ,197155.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/448.png
+Romania,25.62,Background,23.5635,46.0643,242.0,Alba Iulia                                                                      ,74659.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/449.png
+Romania,20.04,Background,26.6585,47.7399,167.0,Botosani                                                                        ,120153.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/450.png
+Spain,14.165,Background,-5.9138,37.2845,49.0,Dos Hermanas                                                                    ,135050.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/451.png
+Spain,23.496,Background,-4.4475,36.7196,36.0,Málaga                                                                          ,578460.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/452.png
+Spain,11.886,Background,-5.8337,37.3425,68.0,Alcalá de Guadaíra                                                              ,75533.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/453.png
+Spain,20.313,Background,-3.6001,37.1657,666.0,Granada                                                                         ,404809.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/454.png
+Spain,22.54,Traffic,-4.863,36.511,39.0,Marbella                                                                        ,147633.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/455.png
+Spain,25.119,Traffic,-4.7801,37.8926,120.0,Cordova                                                                         ,326039.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/456.png
+Spain,10.999,Traffic,-3.6756,42.3508,929.0,Burgos                                                                          ,176418.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/457.png
+Spain,11.999,Background,-6.1172,36.6885,62.0,Jerez de la Frontera                                                            ,213105.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/458.png
+Spain,11.029,Traffic,-5.7464,41.5097,720.0,Zamora                                                                          ,60988.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/459.png
+Germany,28.424,Background,8.5425,50.1018,100.0,Frankfurt am Main                                                               ,763380.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/460.png
+Germany,18.643,Background,8.245,50.0503,127.0,Wiesbaden                                                                       ,278474.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/461.png
+Germany,15.032,Background,9.4834,51.3142,180.0,Kassel                                                                          ,202137.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/462.png
+Spain,19.207,Background,1.2417,41.1174,13.0,Tarragona                                                                       ,136496.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/463.png
+Spain,26.248,Traffic,2.2871,41.5987,133.0,Granollers                                                                      ,62419.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/464.png
+Germany,19.12,Traffic,12.1571,48.5398,390.0,Landshut                                                                        ,73411.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/465.png
+Germany,20.38,Background,10.0083,48.3971,470.0,Neu-Ulm                                                                         ,58978.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/466.png
+Germany,16.417,Background,8.7693,50.8043,180.0,Marburg                                                                         ,77129.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/467.png
+Germany,22.644,Background,13.422,48.5736,300.0,Passau                                                                          ,52803.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/468.png
+Spain,17.332,Traffic,0.6157,41.6158,170.0,Lleida                                                                          ,140403.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/469.png
+Spain,19.444,Traffic,1.8253,41.7303,238.0,Manresa                                                                         ,78245.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/470.png
+Spain,8.136,Traffic,-0.19,38.9667,22.0,Gandia                                                                          ,75798.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/471.png
+Germany,25.824,Traffic,8.7849,50.1015,105.0,Offenbach am Main                                                               ,130280.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/472.png
+Germany,30.182,Traffic,8.6686,50.5841,159.0,Gießen                                                                          ,89802.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/473.png
+Germany,17.926,Background,8.9216,50.1358,105.0,Hanau                                                                           ,96492.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/474.png
+Germany,20.997,Background,8.5006,50.5672,150.0,Wetzlar                                                                         ,52955.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/475.png
+Germany,17.415,Industrial,10.0817,53.529,5.0,Hamburg                                                                         ,1847253.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/476.png
+Germany,26.478,Traffic,9.6849,50.55,269.0,Fulda                                                                           ,68635.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/477.png
+Germany,18.595,Traffic,13.2679,53.5588,16.0,Neubrandenburg                                                                  ,63761.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/478.png
+Germany,10.042,Background,12.08,54.1713,2.0,Rostock                                                                         ,209191.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/479.png
+Germany,13.044,Traffic,13.081,54.3192,8.0,Stralsund                                                                       ,59418.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/480.png
+Germany,29.918,Traffic,8.0415,52.2703,69.0,Osnabrück                                                                       ,165251.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/481.png
+Germany,24.23,Traffic,9.9283,51.5302,150.0,Gottinga                                                                       ,118911.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/482.png
+Germany,22.012,Traffic,10.7937,52.4279,61.0,Wolfsburg                                                                       ,124371.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/483.png
+Germany,26.938,Traffic,8.2658,50.0099,85.0,Mainz                                                                           ,218578.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/484.png
+Germany,20.697,Traffic,8.5528,52.0056,137.0,Bielefeld                                                                       ,334195.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/485.png
+Germany,30.941,Traffic,7.0846,51.5279,36.0,Gelsenkirchen                                                                   ,259645.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/486.png
+Germany,35.303,Traffic,6.7825,51.2132,45.0,Düsseldorf                                                                      ,621877.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/487.png
+Germany,30.562,Traffic,7.0053,51.4779,50.0,Essen                                                                           ,582760.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/488.png
+Germany,34.068,Traffic,7.4636,51.3628,112.0,Hagen                                                                           ,188686.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/489.png
+Germany,31.516,Traffic,7.0109,51.0315,49.0,Leverkusen                                                                      ,163729.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/490.png
+Germany,26.246,Traffic,6.7719,51.4377,36.0,Duisburg                                                                        ,498686.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/491.png
+Germany,18.81,Traffic,11.3979,53.6305,56.0,Schwerin                                                                        ,95653.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/492.png
+Germany,33.639,Traffic,7.0046,50.9628,53.0,Köln                                                                            ,1087863.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/493.png
+Germany,31.632,Traffic,7.4836,51.5235,80.0,Dortmund                                                                        ,588250.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/494.png
+Germany,28.628,Traffic,6.8425,51.4784,35.0,Oberhausen                                                                      ,210764.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/495.png
+Germany,27.745,Traffic,7.0841,51.1762,222.0,Solingen                                                                        ,159245.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/496.png
+Germany,28.729,Traffic,6.0958,50.7731,168.0,Aachen                                                                          ,248960.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/497.png
+Germany,30.432,Traffic,8.4439,49.4785,94.0,Ludwigshafen am Rhein                                                           ,172253.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/498.png
+Germany,31.222,Traffic,9.7155,52.3595,66.0,Hannover                                                                        ,536925.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/499.png
+Germany,28.294,Traffic,9.9502,52.1508,86.0,Hildesheim                                                                      ,101693.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/500.png
+Germany,34.688,Traffic,7.1474,51.2607,158.0,Wuppertal                                                                       ,355100.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/501.png
+Germany,23.98,Traffic,7.6194,51.9533,66.0,Münster                                                                         ,315293.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/502.png
+Germany,18.742,Traffic,6.6467,49.7542,140.0,Trier                                                                           ,111528.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/503.png
+Germany,21.006,Traffic,6.4399,51.1694,65.0,Mönchengladbach                                                                 ,261034.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/504.png
+Germany,24.183,Traffic,10.5406,52.2667,81.0,Braunschweig                                                                    ,249406.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/505.png
+Germany,29.454,Traffic,8.2121,53.1428,8.0,Oldenburg (Oldenburg)                                                           ,169077.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/506.png
+Germany,28.087,Traffic,7.5922,50.3594,70.0,Koblenz                                                                         ,114052.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/507.png
+Germany,22.325,Traffic,9.4381,54.7814,15.0,Flensburg                                                                       ,90164.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/508.png
+Germany,24.165,Traffic,12.3772,51.3442,110.0,Leipzig                                                                         ,593145.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/509.png
+Germany,20.235,Traffic,10.6733,53.8622,6.0,Lubecca                                                                          ,216530.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/510.png
+Germany,18.844,Background,6.8651,51.4535,39.0,Mülheim an der Ruhr                                                                ,170632.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/511.png
+Germany,22.54,Traffic,8.3553,49.5333,99.0,Frankenthal (Pfalz)                                                             ,48762.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/512.png
+Germany,19.893,Industrial,6.9769,51.526,30.0,Bottrop                                                                         ,117565.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/513.png
+Germany,14.992,Background,7.7673,49.446,232.0,Kaiserslautern                                                                  ,100030.0,/work/cvcs2024/air_pollution_prediction/SENTINEL_5/514.png

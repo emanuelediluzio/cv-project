@@ -1,0 +1,17 @@
+tensorflow==2.7.0
+pandas
+scikit-learn
+wrapt
+pillow
+protobuf==3.20.2
+numpy==1.21.6
+six>=1.12.0
+PyYAML
+packaging
+sympy
+markdown
+werkzeug
+cloudpickle
+decorator
+request
+scipy
