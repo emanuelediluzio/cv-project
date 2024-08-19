@@ -1,4 +1,4 @@
-# Proposta di Progetto: Predizione dell'Inquinamento dell'Aria
+#Predizione dell'Inquinamento dell'Aria
 
 ## Introduzione
 Il nostro progetto è ispirato dall'uso delle immagini satellitari fornite dal programma Copernicus. Dato l'aumento incessante dell'inquinamento a livello globale, il nostro obiettivo è costruire un modello che possa fornire una rappresentazione concreta dei cambiamenti che ci circondano. Vogliamo creare un modello capace di prevedere la qualità dell'aria, rappresentata da specifici parametri di inquinamento, in una determinata area e in un determinato periodo.
